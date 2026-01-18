@@ -7,6 +7,7 @@ Users can connect a wallet, execute buy/sell trades, view balances, and learn ad
 - 🔗 Wallet Connection
 - Connect a crypto wallet to the Pear Protocol network
 - No private keys stored
+
 💱 Trading
 - Buy and sell crypto assets directly via the protocol
 - Network-based trade execution
